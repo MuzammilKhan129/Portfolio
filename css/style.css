@@ -39,9 +39,11 @@ h3 {
 
 h1 .bold-text{
     font-size: 80px;
+    display: block;
 }
 h2 .bold-text{
     font-size: 60px;
+    display: block;
 }
 
 
