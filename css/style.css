@@ -53,7 +53,8 @@ small {
 
 .header {
     padding: 100px 0;
-    background-color: #D7D7D7;
+    background-color: #252525;
+    color: #fff;
 }
 
 .about-me {
@@ -63,7 +64,8 @@ small {
 
 .articles {
     padding: 100px 0;
-    background-color: #EAF9FF;
+    background-color: #252525;
+    color: #fff;
 }
 
 a {
