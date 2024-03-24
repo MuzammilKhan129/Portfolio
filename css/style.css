@@ -90,8 +90,8 @@ a:hover {
     color: #252525;
     text-decoration: none;
 }
-.button:hover ,.button:focus{
+.button:hover {
     
-    background-color: #fff;
+    
     color: #252525;
 }
