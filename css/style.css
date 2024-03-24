@@ -16,21 +16,26 @@ img{
     text-align: center;
 }
 .bold-text{
-    font-weight: bold;
+    
+    display: block;
+    color: #99D930;
+    font-weight: 900;
 }
 
 
 h1 {
-    font-size: 60px;
+    font-size: 80px;
     margin-bottom: 0;
     font-weight: lighter;
 }
 
 h2 {
-    font-size: 42px;
+    font-size: 60px;
     margin-bottom: 0;
     font-weight: lighter;
-}
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 1px solid #C4C4C4;
+    padding-top: 10px;
 
 h3 {
     font-size: 36px;
@@ -75,4 +80,18 @@ a {
 
 a:hover {
     color: #131313;
+}
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #99D930;
+    color: #252525;
+    text-decoration: none;
+}
+.button:hover ,.button:focus{
+    
+    background-color: #fff;
+    color: #252525;
 }
