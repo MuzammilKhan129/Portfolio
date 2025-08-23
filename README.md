@@ -1,9 +1,11 @@
 # 🌐 Personal Portfolio Website
 
 Hi, I’m **Muzammil Ijaz** 👋 — a passionate Frontend Developer who enjoys building interactive and user-friendly web applications.  
-I specialize in **HTML, CSS, and JavaScript**, and I love creating projects that solve real-world problems while improving my skills.
+I specialize in **HTML, CSS, and JavaScript**, and I’m currently learning **React** to build modern, component-based UIs.  
+I love creating projects that solve real-world problems while improving my skills.
 
 This portfolio website showcases some of my projects along with live demos hosted on **GitHub Pages**.
+
 
 ---
 
