@@ -9,7 +9,7 @@ This portfolio website showcases some of my projects along with live demos hoste
 
 ## ✨ Features
 - 📌 **About Me Section** – Introduction about myself and my passion for web development.  
-- 📌 **Projects Showcase** – Displays my JavaScript projects with descriptions and live demo links.  
+- 📌 **Projects Showcase** – Displays my JavaScript and React projects with descriptions and live demo links.  
 - 📌 **Responsive Design** – Works on desktop, tablet, and mobile screens.  
 - 📌 **GitHub Integration** – Links to my repositories so visitors can explore the source code.  
 
@@ -59,11 +59,17 @@ A React app with a dynamic pizza menu, sold-out item handling, and real-time ope
 
 ---
 
+### 🧑‍💻 Profile Card
+A React project that displays a personal profile card with avatar, introduction, and skills list using props and components.  
+🔗 [Live Demo](https://muzammilkhan129.github.io/Profile-Card/)
+
+---
+
 ## 🛠️ Technologies Used
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6)** – Interactive projects  
-- **React** – Component-based UI for Pizza Menu  
+- **React** – Component-based UI for some projects  
 - **GitHub Pages** – Hosting and deployment  
 
 ---
