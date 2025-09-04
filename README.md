@@ -40,6 +40,13 @@ Fetch real-time weather by city or user’s location with °C/°F toggle
 
 ---
 
+### 📅 React Date Counter App
+
+Adjust dates by a chosen step using **useState** for state management  
+🔗 [Live Demo](https://muzammilkhan129.github.io/Date-Counter/)
+
+---
+
 ### 📝 To-Do List
 
 Add, mark complete, or delete tasks (saved in localStorage)  
@@ -65,13 +72,6 @@ A real-time 12-hour digital clock with AM/PM
 
 Dynamic pizza menu with sold-out items & real-time open/close status  
 🔗 [Live Demo](https://muzammilkhan129.github.io/React-Pizza-Menu/)
-
----
-
-### 📅 React Date Counter App
-
-Adjust dates by a chosen step using **useState** for state management  
-🔗 [Live Demo](https://muzammilkhan129.github.io/Date-Counter/)
 
 ---
 
